@@ -1,0 +1,42 @@
+[
+ {
+  "priority": "\u001b[101m \u001b[0m",
+  "date": "2023-10-14",
+  "time": "17:00",
+  "taskDescription": [
+   "See my dentist"
+  ],
+  "dueDate": "\u001b[103m \u001b[0m"
+ },
+ {
+  "priority": "\u001b[103m \u001b[0m",
+  "date": "2023-10-21",
+  "time": "17:00",
+  "taskDescription": [
+   "Cinema: get tickets",
+   "Check movie reviews"
+  ],
+  "dueDate": "\u001b[102m \u001b[0m"
+ },
+ {
+  "priority": "\u001b[102m \u001b[0m",
+  "date": "2023-10-07",
+  "time": "19:00",
+  "taskDescription": [
+   "Supermarket",
+   "Chocolates",
+   "flour",
+   "oranges"
+  ],
+  "dueDate": "\u001b[101m \u001b[0m"
+ },
+ {
+  "priority": "\u001b[104m \u001b[0m",
+  "date": "2023-10-21",
+  "time": "12:00",
+  "taskDescription": [
+   "Buy book"
+  ],
+  "dueDate": "\u001b[102m \u001b[0m"
+ }
+]

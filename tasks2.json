@@ -1,0 +1,34 @@
+[
+ {
+  "priority": "\u001b[101m \u001b[0m",
+  "date": "1991-07-10",
+  "time": "18:30",
+  "taskDescription": [
+   "Task1",
+   "test"
+  ],
+  "dueDate": "\u001b[101m \u001b[0m"
+ },
+ {
+  "priority": "\u001b[101m \u001b[0m",
+  "date": "1888-10-20",
+  "time": "18:30",
+  "taskDescription": [
+   "Task2",
+   "test"
+  ],
+  "dueDate": "\u001b[101m \u001b[0m"
+ },
+ {
+  "priority": "\u001b[101m \u001b[0m",
+  "date": "1888-12-12",
+  "time": "18:30",
+  "taskDescription": [
+   "Task3",
+   "test",
+   "test",
+   "test"
+  ],
+  "dueDate": "\u001b[101m \u001b[0m"
+ }
+]
